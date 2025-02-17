@@ -1,15 +1,13 @@
-----------------------------------------------
-| **RUBEN FELIPE DIAZ MARTIN**               |
-| Ingeniero Informático                      |
-----------------------------------------------
-| 📍 Villuendas 38A, Zulueta, Remedios,      | 
-|    Villa Clara, Cuba                       |
-| 📞 +53 56281961                            |
-| ✉️ rubenfelipediazmartin@gmail.com         |
-| 🔗 LinkedIn: linkedin.com/in/ruben-felipe- |
-|    diaz-martin                             |
-| 🔗 GitHub: github.com/rdmartin2            |
-----------------------------------------------
+# Ruben Felipe Diaz Martin  
+**Ingeniero Informático | Especialista en Web Semántica**  
+
+📍 **Ubicación:**  
+Villuendas 38A, Zulueta, Remedios, Villa Clara, Cuba  
+
+📞 **Teléfono:** +53 56281961  
+✉️ **Correo:** [rubenfelipediazmartin@gmail.com](mailto:rubenfelipediazmartin@gmail.com)  
+👔 **LinkedIn:** [Perfil profesional](https://www.linkedin.com/in/ruben-felipe-diaz-martin-912b76247)  
+💻 **GitHub:** [Proyectos](https://github.com/rdmartin2)  
 
 ---
 
